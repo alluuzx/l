@@ -1,3 +1,3 @@
 [
-  {"title":"Infinite Yield","script":"loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source', true))()","image":"https://rscripts.net/images/Infinite%20Yield.webp","CreatorText":"Made by: Edge"}
+  {"title":"Infinite Yield","script":"loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source', true))()","image":"https://repository-images.githubusercontent.com/230387740/f3658200-3abc-11ea-973a-b024e3a60673","CreatorText":"Made by: Edge"}
 ]
